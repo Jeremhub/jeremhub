@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am jérémi, a IT engineer graduated from the EPSI, France!
+
+
+
 <!--
 **Jeremhub/jeremhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
