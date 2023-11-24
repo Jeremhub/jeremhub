@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I am jérémi, a IT engineer graduated from the EPSI, France!
+I am jérémi, a young and enthusiastic IT engineer freshly graduated from the EPSI, an engineering school in France.
+
+I like talking and working on projects and designing new things.
+
+I am actually looking for a job as a developer.
+
+🔭 I’m currently working on:
+- Personnal portfolio (Nuxt)
+- Life goals mobile app (Kotlin/Java)
+
 
 
 
