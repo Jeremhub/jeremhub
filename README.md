@@ -10,6 +10,11 @@ I am actually looking for a job as a developer.
 - Personnal portfolio (Nuxt)
 - Life goals mobile app (Kotlin/Java)
 
+🌱 I’m currently learning:
+- Nuxt
+- Unreal engine
+- Figma
+
 
 
 
